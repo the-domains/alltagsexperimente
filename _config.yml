@@ -1,0 +1,14 @@
+layout_spectrum: 0.08418561820872128
+typography_spectrum: 0.9908010317012668
+color:
+  brandStrength: 0.12822234886698425
+  lightness: 0.07205427950248122
+  saturation: 0.13287580735050142
+  rhythmicContrast: 0.7296624344307929
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+name: AlltagsExperimente
